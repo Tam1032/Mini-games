@@ -1,4 +1,4 @@
-# Mini-games
+# Mini games Julia
 This is a mini project written in Julia programming language. </br>
 The project is guided from this [tutorial](https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects). </br>
 To run the files, you need to install [Julia programming language](https://julialang.org/downloads/) </br>
